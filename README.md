@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**CarlosFlores27/CarlosFlores27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate Technology student at **ENES Juriquilla, UNAM**, currently in my fifth semester.
 
-Here are some ideas to get you started:
+My research interests focus on the intersection of **Artificial Intelligence, Engineering, Physics, and Biology**. I enjoy applying computational methods to scientific and engineering challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Current Research Areas
+
+- 🧲 Magnetic Resonance Imaging (MRI)
+- 🧠 Deep Learning for Biomedical Data
+- 📈 Mathematical Modeling
+- 🚀 Aerospace Systems
+
+### 💻 Technologies & Interests
+
+- Python
+- Machine Learning
+- Signal Processing
+- Scientific Computing
+- Research Software Development
+
+I aspire to develop technologies that bridge scientific research and engineering, creating solutions with meaningful real-world impact.
